@@ -23,4 +23,4 @@ I'm tracking progress inside a `daily-log.md` file. Every day I'll update it wit
 - Date
 - What I studied/worked on
 - What I learned
-- I haven't learned shit.
+- Still haven't taught myself anything!
